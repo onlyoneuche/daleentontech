@@ -1,4 +1,5 @@
-## Hi There 👋🏾 My name is Uchechukwu Emmanuel.
+## Hi there 👋🏾 My name is Uchechukwu Emmanuel.
+#### Welcome to my Github profile
 
 <!--
 **daleentontech/daleentontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
